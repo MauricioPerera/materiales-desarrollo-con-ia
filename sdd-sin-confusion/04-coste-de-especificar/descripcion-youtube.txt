@@ -1,0 +1,31 @@
+Generar una especificación lleva poco tiempo; entenderla, revisarla y mantenerla útil también cuenta. Descubre qué costes reales tiene SDD y qué esfuerzo adicional puede venir de documentos repetidos, contradictorios o desactualizados.
+
+Seguiremos un cambio cuyo código y documentación ya no coinciden. Verás cómo decidir qué acuerdo sigue vigente, por qué más contexto no garantiza más control y qué observar para saber si el esfuerzo de especificar compensa en tu proyecto.
+
+MATERIALES DEL EPISODIO
+Plantilla, ejemplo y fuentes para aplicar lo aprendido:
+https://github.com/MauricioPerera/materiales-desarrollo-con-ia/tree/main/sdd-sin-confusion/04-coste-de-especificar
+
+CAPÍTULOS
+00:00 Generar un documento no termina el trabajo
+00:51 La revisión también consume atención
+01:49 Cuando la spec y el código discrepan
+02:45 Más contexto no garantiza más control
+03:46 Qué conservar y quién lo actualiza
+04:43 Cómo saber si el esfuerzo compensa
+
+SDD sin confusión · Episodio 4 de 6.
+
+¿Qué documento te ayuda a decidir y cuál necesita una revisión? Cuéntalo en los comentarios.
+
+FUENTES Y DOCUMENTACIÓN
+• Birgitta Böckeler — Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl
+https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
+• Nelson F. Liu y otros — Lost in the Middle: How Language Models Use Long Contexts
+https://arxiv.org/abs/2307.03172v3
+• Equipo de Applied AI de Anthropic — Effective context engineering for AI agents
+https://www.anthropic.com/research/effective-context-engineering-for-ai-agents
+• Fission AI — OpenSpec — Core Concepts at a Glance
+https://github.com/Fission-AI/OpenSpec/blob/main/docs/overview.md
+
+#SDD #ProgramacionConIA #DesarrolloDeSoftware

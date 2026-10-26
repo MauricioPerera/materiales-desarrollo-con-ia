@@ -1,0 +1,37 @@
+¿Qué necesitas observar antes de reconstruir una aplicación con IA? Un botón y una captura no cuentan toda la historia. Aprende a seguir una interacción desde su estado inicial hasta un resultado que puedas comprobar.
+
+Con el ejemplo de guardar una copia de un documento, veremos qué registrar antes y después del clic, qué ocurre al cancelar o fallar y cómo estudiar la recuperación. Al terminar podrás separar hechos, hipótesis y preguntas en un mapa de interacción.
+
+MATERIALES DEL EPISODIO
+Plantilla, ejemplo y fuentes para aplicar lo aprendido:
+https://github.com/MauricioPerera/materiales-desarrollo-con-ia/tree/main/clonar-y-adaptar-aplicaciones/02-observar-la-aplicacion
+
+CAPÍTULOS
+00:00 Del botón al comportamiento
+00:58 Preparar una observación repetible
+02:01 Seguir la acción hasta el resultado
+03:06 Cancelar, fallar y recuperarse
+04:11 Separar hechos, hipótesis y preguntas
+05:19 Construir el mapa de interacción
+
+Clonar y adaptar aplicaciones con IA · Episodio 2 de 6.
+
+Después de pulsar «guardar», ¿qué resultado comprobarías? Cuéntalo en los comentarios.
+
+FUENTES Y DOCUMENTACIÓN
+• Storytold — PhotoCraft — instrucciones y verificación
+https://github.com/storytold/photocraft/blob/59cb4c49bd236df04d8e37d4764253f29ca6600a/AGENTS.md
+• Storytold — FigCraft — flujo propuesto y pruebas
+https://github.com/storytold/figcraft/blob/63d926876ffdb22f0c934a65c8130ba23f73cc7c/AGENTS.md
+• Storytold — FigCraft — diferencias y validaciones pendientes
+https://github.com/storytold/figcraft/blob/63d926876ffdb22f0c934a65c8130ba23f73cc7c/docs/gaps.md
+• Martin Fowler — Given When Then
+https://martinfowler.com/bliki/GivenWhenThen.html
+• Cucumber — Example Mapping
+https://cucumber.io/docs/bdd/example-mapping/
+• Cucumber — Gherkin Reference — contexto, acciones y resultados observables
+https://cucumber.io/docs/gherkin/reference/
+• Jakob Nielsen · Nielsen Norman Group — 10 Usability Heuristics for User Interface Design
+https://www.nngroup.com/articles/ten-usability-heuristics/
+
+#ProgramacionConIA #SDD #DesarrolloDeSoftware

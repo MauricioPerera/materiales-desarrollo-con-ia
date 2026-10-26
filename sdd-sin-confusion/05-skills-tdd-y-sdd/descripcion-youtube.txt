@@ -1,0 +1,37 @@
+¿Usar las skills de HolaMundo significa dejar de hacer SDD? Aprende a separar las instrucciones reutilizables, el acuerdo de un cambio concreto y las pruebas que lo comprueban.
+
+Recorremos sus skills públicas de backlog, story y pair con el ejemplo de completar una tarea. Verás dónde entran los criterios, la aprobación y el ciclo de TDD. Con una definición amplia de spec-first, analizamos por qué ese flujo puede seguir guiándose por una especificación.
+
+MATERIALES DEL EPISODIO
+Plantilla, ejemplo y fuentes para aplicar lo aprendido:
+https://github.com/MauricioPerera/materiales-desarrollo-con-ia/tree/main/sdd-sin-confusion/05-skills-tdd-y-sdd
+
+CAPÍTULOS
+00:00 El nombre de la herramienta no decide el método
+00:56 Una historia se convierte en un acuerdo concreto
+01:53 El acuerdo alimenta la implementación
+02:56 Qué añade el desarrollo guiado por pruebas
+03:59 Por qué lo clasificamos como spec-first
+05:07 Qué cambia y qué permanece
+
+SDD sin confusión · Episodio 5 de 6.
+
+En tu flujo, ¿cómo llega el comportamiento acordado hasta las pruebas? Cuéntalo en los comentarios.
+
+FUENTES Y DOCUMENTACIÓN
+• HolaMundo / nschurmann — hola-ai — README
+https://github.com/nschurmann/hola-ai/blob/8601ef546e91893256c2dea0be61584fcf991fad/README.md
+• HolaMundo / nschurmann — hola-ai — backlog
+https://github.com/nschurmann/hola-ai/blob/8601ef546e91893256c2dea0be61584fcf991fad/skills/backlog/SKILL.md
+• HolaMundo / nschurmann — hola-ai — story
+https://github.com/nschurmann/hola-ai/blob/8601ef546e91893256c2dea0be61584fcf991fad/skills/story/SKILL.md
+• HolaMundo / nschurmann — hola-ai — pair
+https://github.com/nschurmann/hola-ai/blob/8601ef546e91893256c2dea0be61584fcf991fad/skills/pair/SKILL.md
+• Agent Skills — Agent Skills Overview
+https://agentskills.io/home
+• Kent Beck — Canon TDD
+https://newsletter.kentbeck.com/p/canon-tdd
+• Birgitta Böckeler — Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl
+https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
+
+#SDD #ProgramacionConIA #DesarrolloDeSoftware

@@ -1,0 +1,1 @@
+Las pruebas pasan, pero ¿resuelves la necesidad del usuario? Sigue el ejemplo en el video relacionado. #SDD #ProgramacionConIA

@@ -1,0 +1,37 @@
+¿Quieres crear tu propia versión de una aplicación con IA sin copiar cientos de funciones? Aprende a decidir qué conservar, qué adaptar y qué dejar fuera para resolver una necesidad concreta.
+
+Con el ejemplo de guardar una copia de un documento y volver a abrirla, veremos cómo reducir el alcance sin perder el resultado que necesita el usuario. Descubrirás por qué quitar un botón no elimina sus dependencias, cómo distinguir una exclusión de una duda pendiente y qué diferencia hay entre probar una idea y tener una primera versión utilizable.
+
+Al terminar, podrás organizar el alcance de tu aplicación: qué debe seguir funcionando, qué cambiará, qué quedará fuera y qué necesitas comprobar antes de darlo por resuelto.
+
+MATERIALES DEL EPISODIO
+Plantilla, ejemplo y fuentes para aplicar lo aprendido:
+https://github.com/MauricioPerera/materiales-desarrollo-con-ia/tree/main/clonar-y-adaptar-aplicaciones/03-definir-el-alcance
+
+CAPÍTULOS
+00:00 Del referente al trabajo elegido
+00:53 Conservar propiedades que importan
+01:53 Adaptar con propósito y criterio
+02:54 Excluir sin romper el recorrido
+03:59 Elegir una primera versión completa
+05:03 Un alcance que puede revisarse
+
+Clonar y adaptar aplicaciones con IA · Episodio 3 de 6.
+
+¿Qué función dejarías fuera de tu versión y por qué? Cuéntalo en los comentarios.
+
+FUENTES Y DOCUMENTACIÓN
+• Cucumber — Example Mapping
+https://cucumber.io/docs/bdd/example-mapping/
+• Martin Fowler — Given When Then
+https://martinfowler.com/bliki/GivenWhenThen.html
+• Fission AI — OpenSpec — conceptos y cambios incrementales
+https://github.com/Fission-AI/OpenSpec/blob/6d04a1b58dedc95729d34e4f223d9d483aae210a/docs/overview.md
+• Fission AI — OpenSpec — Explore First
+https://github.com/Fission-AI/OpenSpec/blob/6d04a1b58dedc95729d34e4f223d9d483aae210a/docs/explore.md
+• Firmantes del Manifiesto Ágil — Principios del Manifiesto Ágil
+https://agilemanifesto.org/iso/es/principles.html
+• Ryan Singer · Basecamp — Shape Up — Get One Piece Done
+https://basecamp.com/shapeup/3.2-chapter-11
+
+#ProgramacionConIA #SDD #DesarrolloDeSoftware

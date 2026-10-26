@@ -1,0 +1,29 @@
+Spec-first, spec-anchored y spec-as-source: ¿qué cambia entre estas formas de trabajar con especificaciones? La diferencia se vuelve visible cuando modificas una función o corriges un error.
+
+Siguiendo la fecha límite de una tarea, aprenderás qué se conserva, qué debe actualizarse y dónde tiene que quedar una corrección para que sobreviva al siguiente cambio. Usamos la clasificación de Birgitta Böckeler para comparar compromisos, sin asumir que un enfoque sea siempre mejor.
+
+MATERIALES DEL EPISODIO
+Plantilla, ejemplo y fuentes para aplicar lo aprendido:
+https://github.com/MauricioPerera/materiales-desarrollo-con-ia/tree/main/sdd-sin-confusion/02-tres-formas-de-sdd
+
+CAPÍTULOS
+00:00 Una etiqueta, tres acuerdos distintos
+01:01 Spec-first: especificar el cambio
+01:57 Spec-anchored: mantener el acuerdo vivo
+03:02 Spec-as-source: el código es un derivado
+04:02 Cómo comparar los tres sin confundirlos
+05:04 Qué preguntar antes de elegir un flujo
+
+SDD sin confusión · Episodio 2 de 6.
+
+Cuando una función cambia, ¿qué referencia actualizas en tu proyecto? Cuéntalo en los comentarios.
+
+FUENTES Y DOCUMENTACIÓN
+• Birgitta Böckeler — Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl
+https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
+• Fission AI — OpenSpec — Core Concepts at a Glance
+https://github.com/Fission-AI/OpenSpec/blob/main/docs/overview.md
+• OpenAPI Generator — Customization — Ignore file format
+https://openapi-generator.tech/docs/customization/
+
+#SDD #ProgramacionConIA #DesarrolloDeSoftware

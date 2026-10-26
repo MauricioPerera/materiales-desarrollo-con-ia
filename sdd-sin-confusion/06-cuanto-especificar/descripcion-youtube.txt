@@ -1,0 +1,35 @@
+¿Cuánta especificación necesitas antes de pedir código a una IA? Aprende a ajustar el detalle según tres preguntas: qué falta entender, qué consecuencias tendría un error y qué decisiones necesitará comprender otra persona después.
+
+Compararemos cambiar el texto de un botón, explorar recordatorios y borrar varias tareas. También situaremos la propuesta ODD de Gentle AI para entender cómo puede variar el seguimiento del trabajo. El objetivo es elegir acuerdos y comprobaciones útiles, sin medir la calidad por el número de páginas.
+
+MATERIALES DEL EPISODIO
+Plantilla, ejemplo y fuentes para aplicar lo aprendido:
+https://github.com/MauricioPerera/materiales-desarrollo-con-ia/tree/main/sdd-sin-confusion/06-cuanto-especificar
+
+CAPÍTULOS
+00:00 La medida útil no es el número de páginas
+00:57 Un cambio pequeño y entendido
+01:55 Incertidumbre y consecuencias piden respuestas distintas
+02:55 El conocimiento que debe sobrevivir al cambio
+03:56 Dónde encaja la propuesta ODD
+04:57 Elegir, comprobar y ajustar
+
+SDD sin confusión · Episodio 6 de 6.
+
+En tu próximo cambio, ¿qué necesitas entender, comprobar o conservar? Cuéntalo en los comentarios.
+
+FUENTES Y DOCUMENTACIÓN
+• Gentleman Programming — Gentle AI — Intended Usage (v4.0.0)
+https://github.com/Gentleman-Programming/gentle-ai/blob/ff77164d4f56f1665b22fb6fac51c2ccbb769400/docs/intended-usage.md
+• Gentleman Programming — Gentle AI — Usage: Organic Driven Development (v4.0.0)
+https://github.com/Gentleman-Programming/gentle-ai/blob/ff77164d4f56f1665b22fb6fac51c2ccbb769400/docs/usage.md
+• Cucumber Open Source Project — Example Mapping
+https://cucumber.io/docs/bdd/example-mapping/
+• Michael Nygard — Documenting Architecture Decisions
+https://www.cognitect.com/blog/2011/11/15/documenting-architecture-decisions
+• Autores del Manifiesto Ágil — Principios del Manifiesto Ágil
+https://agilemanifesto.org/iso/es/principles.html
+• Birgitta Böckeler — Understanding Spec-Driven-Development: Kiro, spec-kit, and Tessl
+https://martinfowler.com/articles/exploring-gen-ai/sdd-3-tools.html
+
+#SDD #ProgramacionConIA #DesarrolloDeSoftware
