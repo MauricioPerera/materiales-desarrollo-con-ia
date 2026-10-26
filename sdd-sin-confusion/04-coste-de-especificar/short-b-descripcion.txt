@@ -1,1 +1,0 @@
-El código y la spec discrepan: primero confirma qué debería pasar. Recorremos el caso en el video relacionado. #SDD #ProgramacionConIA

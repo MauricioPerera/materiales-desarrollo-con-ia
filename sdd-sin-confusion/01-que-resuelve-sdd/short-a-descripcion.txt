@@ -1,1 +1,0 @@
-Aclara qué debe ocurrir y qué queda fuera. El ejemplo completo está en el video relacionado. #SDD #ProgramacionConIA
