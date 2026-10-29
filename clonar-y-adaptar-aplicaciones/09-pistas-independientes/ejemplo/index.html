@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Experimento: pistas independientes</title><link rel="stylesheet" href="style.css"></head>
+<body><main>
+  <p class="eyebrow">GRABADOR LOCAL · EXPERIMENTO</p><h1>Pantalla, cámara y voz por separado</h1>
+  <p>Guarda las pistas como archivos independientes. Los tiempos registrados son referencias para la revisión, no una garantía de sincronización.</p>
+  <section><h2>Prepara una toma</h2>
+    <label><input id="camera" type="checkbox" checked> Grabar cámara</label>
+    <label><input id="microphone" type="checkbox" checked> Grabar micrófono</label>
+    <p>La pantalla se elige en el diálogo del navegador. La grabación solo se guarda si descargas los archivos.</p>
+    <div class="controls"><button id="start">Iniciar</button><button id="pause" disabled>Pausar</button><button id="stop" disabled>Detener</button><button id="cancel" disabled>Cancelar</button></div>
+    <p id="status" role="status">Listo para grabar</p><p id="message">Selecciona los dispositivos que deseas usar.</p>
+  </section>
+  <section id="results" hidden><h2>Archivos de la toma</h2><p>Descarga y compara las pistas; comprueba su sincronización en tu editor.</p><div id="downloads"></div></section>
+  <p class="foot">Prototipo experimental: la compatibilidad, los permisos y la sincronización dependen del navegador y los dispositivos.</p>
+</main><script src="app.js"></script></body></html>

@@ -27,6 +27,7 @@ Elige un episodio, abre su plantilla y complétala con tu caso. Los ejemplos ayu
 | 6 | [Personalizar una app sin multiplicar el mantenimiento](clonar-y-adaptar-aplicaciones/06-mantener-y-elegir-caso/) |
 | 7 | [Definir un grabador local inspirado en Loom](clonar-y-adaptar-aplicaciones/07-definir-grabador-local/) |
 | 8 | [Probar la captura de pantalla y cámara](clonar-y-adaptar-aplicaciones/08-probar-captura-local/) |
+| 9 | [Separar y comprobar pistas de pantalla, cámara y voz](clonar-y-adaptar-aplicaciones/09-pistas-independientes/) |
 
 La segunda serie comienza con ejemplos conceptuales sobre la necesidad, la observación y el alcance. Después aplica esas ideas a la definición de un grabador local inspirado en Loom.
 
