@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <title>Grabador local · Pantalla y cámara</title>
+  <link rel="stylesheet" href="style.css">
+  <script src="app.js" defer></script>
+</head>
+<body>
+  <main class="shell">
+    <header class="masthead"><div class="brand"><span class="brand-mark" aria-hidden="true">●</span> ESTUDIO LOCAL</div><span class="eyebrow">PRIMERA PRUEBA · CAPTURA</span></header>
+    <section class="intro"><p class="kicker">PANTALLA + VOZ + CÁMARA OPCIONAL</p><h1>Explica lo que<br><em>quieres mostrar.</em></h1><p>Graba una ventana o pantalla, revisa el resultado y guárdalo en tu equipo.</p></section>
+    <section class="workspace" aria-label="Grabador">
+      <div class="stage">
+        <div class="stage-top"><div><span class="status-dot" id="status-dot"></span><strong id="status">Listo para grabar</strong></div><span id="timer" class="timer" aria-label="Tiempo de grabación">00:00</span></div>
+        <div id="empty" class="empty"><div class="screen-icon" aria-hidden="true"><div class="screen-icon-bar"><i></i><i></i><i></i></div><div class="screen-icon-center">▶</div></div><h2>Tu espacio de grabación</h2><p>Al empezar, el navegador te pedirá elegir qué quieres compartir.</p></div>
+        <canvas id="preview" class="preview hidden" aria-label="Vista previa de la grabación"></canvas>
+        <video id="result" class="preview hidden" controls playsinline aria-label="Reproducir la grabación"></video>
+        <div class="stage-bottom"><span id="stage-caption">Tu grabación se guarda únicamente cuando la descargas.</span><span class="local-badge">● LOCAL</span></div>
+      </div>
+      <aside class="panel"><div class="panel-heading"><div><p class="kicker">CONFIGURACIÓN</p><h2>Prepara tu toma</h2></div><span class="step">01</span></div><p class="panel-copy">Elige qué quieres incluir antes de empezar.</p>
+        <label class="option"><span class="option-icon" aria-hidden="true">◉</span><span class="option-text"><strong>Cámara</strong><small>Superpuesta sobre la pantalla</small></span><input id="camera" type="checkbox"><span class="switch" aria-hidden="true"></span></label>
+        <label class="option"><span class="option-icon" aria-hidden="true">♪</span><span class="option-text"><strong>Micrófono</strong><small>Incluye tu voz en el video</small></span><input id="microphone" type="checkbox"><span class="switch" aria-hidden="true"></span></label>
+        <div class="controls"><button id="start" class="button primary"><span aria-hidden="true">●</span> Iniciar grabación</button><div class="control-row hidden" id="active-controls"><button id="pause" class="button secondary">Pausar</button><button id="stop" class="button dark">Detener</button></div><button id="cancel" class="button quiet hidden">Cancelar grabación</button><a id="download" class="button primary hidden" download>Descargar video</a><button id="new" class="button secondary hidden">Nueva grabación</button></div>
+        <p id="message" class="notice" role="status" aria-live="polite">El navegador solicitará permiso solo para los dispositivos que selecciones.</p>
+      </aside>
+    </section>
+    <footer><span>Una primera versión para probar el recorrido.</span><span>PANTALLA → GRABACIÓN → ARCHIVO</span></footer>
+  </main>
+  <video id="screen-source" class="source" muted playsinline></video><video id="camera-source" class="source" muted playsinline></video>
+</body></html>
