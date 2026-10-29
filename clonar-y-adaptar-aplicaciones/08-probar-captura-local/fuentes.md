@@ -1,5 +1,6 @@
 # Fuentes
 
+- [Loom: modos de captura](https://support.atlassian.com/loom/docs/use-looms-different-capture-modes/)
 - [MDN: solicitar captura de pantalla](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getDisplayMedia)
 - [MDN: solicitar cámara y micrófono](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices/getUserMedia)
 - [MDN: grabación de medios](https://developer.mozilla.org/en-US/docs/Web/API/MediaRecorder)
