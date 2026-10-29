@@ -25,8 +25,9 @@ Elige un episodio, abre su plantilla y complétala con tu caso. Los ejemplos ayu
 | 4 | [Del comportamiento a la especificación: dónde entran SDD y KDD](clonar-y-adaptar-aplicaciones/04-del-comportamiento-a-la-especificacion/) |
 | 5 | [Cómo comprobar que tu clon sirve para el trabajo elegido](clonar-y-adaptar-aplicaciones/05-comprobar-que-la-app-funciona/) |
 | 6 | [Personalizar una app sin multiplicar el mantenimiento](clonar-y-adaptar-aplicaciones/06-mantener-y-elegir-caso/) |
+| 7 | [Definir un grabador local inspirado en Loom](clonar-y-adaptar-aplicaciones/07-definir-grabador-local/) |
 
-La segunda serie comienza por la definición de la necesidad, la observación y el alcance. Sus ejemplos son conceptuales y no requieren elegir de antemano una aplicación o tecnología.
+La segunda serie comienza con ejemplos conceptuales sobre la necesidad, la observación y el alcance. Después aplica esas ideas a la definición de un grabador local inspirado en Loom.
 
 ## Cómo usar los recursos
 
