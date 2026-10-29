@@ -18,3 +18,7 @@ La captura y los permisos dependen del navegador, el sistema y los dispositivos.
 La ejecución automatizada utilizó una pantalla y una cámara sintéticas y un tono de audio. Se verificó el archivo descargado, así como pausa, cancelación y algunos errores simulados. Esto no valida los permisos del sistema ni una cámara o micrófono físicos. Esos casos deben probarse en el equipo de cada persona. El formato disponible depende del navegador.
 
 Consulta las [fuentes](fuentes.md) y la [definición del experimento](ejemplo/SPEC.md).
+
+## Repetir la prueba automatizada
+
+La prueba de ejemplo utiliza Playwright, Pillow, Chromium y FFmpeg/ffprobe. Con Python y FFmpeg instalados, ejecuta `python -m pip install playwright pillow` y `python -m playwright install chromium`. Después, desde `ejemplo`, ejecuta `python test_capture.py`. El script crea sus propias fuentes sintéticas, guarda resultados en `evidencia` y no solicita la captura de tu pantalla ni dispositivos reales. Las pruebas manuales de permisos y dispositivos siguen siendo necesarias.
