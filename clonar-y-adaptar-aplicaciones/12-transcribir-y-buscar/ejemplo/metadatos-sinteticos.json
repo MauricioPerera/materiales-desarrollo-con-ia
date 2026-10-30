@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "clock": "reloj sintético construido para la prueba",
+  "markers": [
+    {
+      "type": "instruction",
+      "start_active_ms": 3989,
+      "end_active_ms": 7283,
+      "status": "closed",
+      "label": "indicación de prueba"
+    },
+    {
+      "type": "instruction",
+      "start_active_ms": 7383,
+      "end_active_ms": null,
+      "status": "incomplete",
+      "label": "prueba sin cierre"
+    }
+  ]
+}
