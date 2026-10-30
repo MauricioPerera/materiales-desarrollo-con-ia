@@ -24,7 +24,7 @@ Los intervalos son pares de fotogramas `[inicio, fin)` que se **conservan**. El 
 
 El programa comprueba frecuencia, duración y algunos datos del archivo, pero **eso no demuestra que las pistas reales estén sincronizadas ni detecta deriva**. Tampoco identifica automáticamente errores o instrucciones. El corte completo elimina tiempo de todas las pistas; silenciar solo el micrófono sería una operación diferente y no está implementada aquí.
 
-Antes de aplicar un plan a una toma real, revisa el contenido y la sincronía de sus pistas y conserva los originales. Este ejemplo solo acepta sus condiciones concretas: video de 30 fps constantes, audio a 48 kHz y duraciones iguales a las del plan. Revisa la unión en imagen y sonido: las métricas y las pruebas sintéticas no sustituyen esa revisión.
+Antes de aplicar un plan a una toma real, revisa el contenido y la sincronía de sus pistas y conserva los originales. Este ejemplo se diseñó para video de 30 fps constantes, audio a 48 kHz y duraciones iguales a las del plan. Comprueba las tasas declaradas, pero no verifica que cada fotograma real mantenga una cadencia constante. Revisa la unión en imagen y sonido: las métricas y las pruebas sintéticas no sustituyen esa revisión.
 
 ## Evidencia y límites
 
