@@ -1,0 +1,12 @@
+{
+  "reloj": "segundos ilustrativos sobre una misma línea de tiempo",
+  "transcripcion": [
+    {"inicio": 1.0, "fin": 3.0, "texto": "Abre la pestaña de cuentas."},
+    {"inicio": 4.0, "fin": 7.0, "texto": "Quita la frase anterior y conserva la siguiente."},
+    {"inicio": 8.0, "fin": 10.0, "texto": "Abre la pestaña de ajustes."}
+  ],
+  "marcas": [
+    {"tipo": "instruccion", "inicio": 3.8, "fin": 7.2, "estado": "cerrada"},
+    {"tipo": "instruccion", "inicio": 12.0, "fin": null, "estado": "incompleta"}
+  ]
+}
