@@ -29,14 +29,19 @@ Elige un episodio, abre su plantilla y complétala con tu caso. Los ejemplos ayu
 | 8 | [Probar la captura de pantalla y cámara](clonar-y-adaptar-aplicaciones/08-probar-captura-local/) |
 | 9 | [Separar y comprobar pistas de pantalla, cámara y voz](clonar-y-adaptar-aplicaciones/09-pistas-independientes/) |
 | 10 | [Marcas e instrucciones para revisar una grabación](clonar-y-adaptar-aplicaciones/10-marcas-instrucciones/) |
+| 11 | [De la transcripción a una propuesta de edición](clonar-y-adaptar-aplicaciones/11-transcripcion-propuesta/) |
+| 12 | [Transcribir y localizar instrucciones](clonar-y-adaptar-aplicaciones/12-transcribir-y-buscar/) |
+| 13 | [Aplicar un corte revisado](clonar-y-adaptar-aplicaciones/13-corte-revisado/) |
+| 14 | [Revisar una propuesta y aplicar un corte](clonar-y-adaptar-aplicaciones/14-revision-y-corte/) |
+| 15 | [Silenciar una instrucción sin quitar tiempo](clonar-y-adaptar-aplicaciones/15-silenciar-instruccion/) |
+| 16 | [Combinar cortes y silencios](clonar-y-adaptar-aplicaciones/16-cortes-y-silencios/) |
 
 La segunda serie comienza con ejemplos conceptuales sobre la necesidad, la observación y el alcance. Después aplica esas ideas a la definición de un grabador local inspirado en Loom.
 
 ## Cómo usar los recursos
 
-1. Abre el episodio y lee el ejemplo.
-2. Copia la plantilla a tu editor o descárgala desde GitHub con la opción **Raw** y guarda el texto.
-3. Sustituye los campos por las decisiones, condiciones y preguntas de tu caso.
-4. Registra la evidencia al comprobar el resultado y revisa el acuerdo cuando aprendas algo nuevo.
+1. Abre el episodio y lee sus instrucciones y ejemplos.
+2. Para las plantillas, copia los campos y complétalos con tu caso. Para los experimentos, consulta los requisitos y ejecuta primero los ejemplos incluidos.
+3. Registra la evidencia y los límites de las comprobaciones; revisa las decisiones cuando aprendas algo nuevo.
 
 Las plantillas son guías didácticas, no una certificación ni una fórmula de productividad. Se enlazan las fuentes de terceros en lugar de reproducirlas íntegramente.

@@ -1,0 +1,6 @@
+{
+  "fps": 30,
+  "duracion_fotogramas": 340,
+  "conservar": [[0, 12], [90, 340]],
+  "silenciar": [[115, 225]]
+}
