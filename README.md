@@ -35,6 +35,7 @@ Elige un episodio, abre su plantilla y complétala con tu caso. Los ejemplos ayu
 | 14 | [Revisar una propuesta y aplicar un corte](clonar-y-adaptar-aplicaciones/14-revision-y-corte/) |
 | 15 | [Silenciar una instrucción sin quitar tiempo](clonar-y-adaptar-aplicaciones/15-silenciar-instruccion/) |
 | 16 | [Combinar cortes y silencios](clonar-y-adaptar-aplicaciones/16-cortes-y-silencios/) |
+| 17 | [Del informe a un plan combinado revisado](clonar-y-adaptar-aplicaciones/17-informe-plan-combinado/) |
 
 La segunda serie comienza con ejemplos conceptuales sobre la necesidad, la observación y el alcance. Después aplica esas ideas a la definición de un grabador local inspirado en Loom.
 
