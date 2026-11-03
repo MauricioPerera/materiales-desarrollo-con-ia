@@ -1,0 +1,9 @@
+{
+  "fps": 30,
+  "duracion_fotogramas": 340,
+  "tamano_camara": [160, 90],
+  "tramos_camara": [
+    {"inicio": 0, "fin": 100, "x": 20, "y": 20},
+    {"inicio": 200, "fin": 340, "x": 460, "y": 250}
+  ]
+}
