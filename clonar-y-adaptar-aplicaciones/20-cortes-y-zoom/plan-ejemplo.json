@@ -1,0 +1,8 @@
+{
+  "fps": 30,
+  "duracion_fotogramas": 340,
+  "conservar": [[0, 60], [120, 340]],
+  "region": [160, 90, 320, 180],
+  "tramos_zoom": [[90, 180]],
+  "camara": [460, 250, 160, 90]
+}
